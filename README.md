@@ -1,2 +1,2 @@
-# juniper-level-calc
-Juniper/MEE6 xp calculator
+# How to use
+Edit 9 line and run the script
